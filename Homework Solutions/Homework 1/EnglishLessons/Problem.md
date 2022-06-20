@@ -9,6 +9,7 @@
 # Constraints
 
 1 <= |word| <= 100
+
 1 <= N <= 10^9
 
 # Output Format
@@ -17,7 +18,9 @@
 
 # Sample Input 0
 SDA
+
 11
+
 D
 
 # Sample Output 0
@@ -25,7 +28,9 @@ D
 
 # Sample Input 1
 foo
+
 2
+
 x
 
 # Sample Output 1
